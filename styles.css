@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-contents:space-evenly;
+    flex-wrap:wrap;
+}
